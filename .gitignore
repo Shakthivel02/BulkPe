@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+out/
+
+# Dependency directories
+jspm_packages/
+
+# IDE files
+.idea/
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Linux system files
+*.swp
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Miscellaneous
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.tmp
+*.bak
+*.swp
